@@ -92,6 +92,7 @@ WHERE e.salary > m.salary;
 | Day | Q no | Problem | Difficulty | Solution |
 |-----|----|----------|------------|----------|
 | Day 1 | 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
+| Day 2 | 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
 |Day-3|1211|Queries Quality and Percentage|Easy|[View](Easy/Easy/1211_Queries_Quality_and_percentage.sql)|
 
 ---
