@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 5              |
+| Easy       | 6              |
 | Medium     | 0               |
 | Hard       | 0               |
-| TOTAL      | 5              |
+| TOTAL      | 6              |
 
 ---
 
@@ -96,6 +96,7 @@ WHERE e.salary > m.salary;
 |Day-3|1211|Queries Quality and Percentage|Easy|[View](Easy/Easy/1211_Queries_Quality_and_percentage.sql)|
 |Day-4|1193|Monthly Transactions I |Easy|[View](Easy/1193_Monthly_Transactions_I.sql)|
 |Day-5| 1174| Immediate Food Delivery II|Easy|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
+|Day-6| 1633| percentage of Users Attended a Contest|Easy|[View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql)|
 
 ---
 
