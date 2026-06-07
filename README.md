@@ -97,7 +97,7 @@ WHERE e.salary > m.salary;
 |Day-4|1193|Monthly Transactions I |Easy|[View](Easy/1193_Monthly_Transactions_I.sql)|
 |Day-5| 1174| Immediate Food Delivery II|Easy|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
 |Day-6| 1633| percentage of Users Attended a Contest|Easy|[View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql)|
-|Day-7|1141| User Activity for the Past 30 Days I| Easy|[View](Easy/1141_User_Activity_for_the_Past_30_Days_I.sql_)|
+
 
 ---
 
