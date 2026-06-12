@@ -81,7 +81,7 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 7               |
-| Medium     | 0               |
+| Medium     | 1               |
 | Hard       | 0               |
 | TOTAL      | 7               |
 
@@ -98,6 +98,7 @@ WHERE e.salary > m.salary;
 |Day-5| 1174| Immediate Food Delivery II|Easy|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
 |Day-6| 1633| percentage of Users Attended a Contest|Easy|[View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql)|
 |Day-7|1141| User Activity for the Past 30 Days I| Easy|[View](Easy/1141_User_Activity_for_the_Past_30_Days_I.sql)|
+|Day-8|184|Department Highest Salary|Medium|[View](Medium/184_Department_Highest_Salary.sql)|
 
 
 ---
