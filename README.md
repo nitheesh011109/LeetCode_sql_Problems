@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 7               |
-| Medium     | 2               |
+| Medium     | 3               |
 | Hard       | 0               |
-| TOTAL      | 9               |
+| TOTAL      | 10              |
 
 ---
 
@@ -91,8 +91,8 @@ WHERE e.salary > m.salary;
 
 | Day | Q no | Problem | Difficulty | Solution |
 |-----|----|----------|------------|----------|
-| Day 1 | 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
-| Day 2 | 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
+| Day-1 | 1757 | Recyclable and Low Fat Products | Easy | [View](Easy/1757_Recyclable_and_Low_Fat_Products.sql) |
+| Day-2 | 584 | Find Customer Referee | Easy | [View](Easy/584_Find_Customer_Referee.sql) |
 |Day-3|1211|Queries Quality and Percentage|Easy|[View](Easy/Easy/1211_Queries_Quality_and_percentage.sql)|
 |Day-4|1193|Monthly Transactions I |Easy|[View](Easy/1193_Monthly_Transactions_I.sql)|
 |Day-5| 1174| Immediate Food Delivery II|Easy|[View](Easy/1174_Immediate_Food_Delivery_II.sql)|
@@ -100,7 +100,7 @@ WHERE e.salary > m.salary;
 |Day-7|1141| User Activity for the Past 30 Days I| Easy|[View](Easy/1141_User_Activity_for_the_Past_30_Days_I.sql)|
 |Day-8|184|Department Highest Salary|Medium|[View](Medium/184_Department_Highest_Salary.sql)|
 |Day-9|626|Exchange Seats|Med|[View](Medium/626_Exchange_Seats.sql)|
-
+| Day-10 | 550 | Game Play Analysis IV | Med|[View](Medium/550_Game_Play_Analysis_IV.sql) |
 
 ---
 
