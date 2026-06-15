@@ -101,7 +101,7 @@ WHERE e.salary > m.salary;
 |Day-8|184|Department Highest Salary|Medium|[View](Medium/184_Department_Highest_Salary.sql)|
 |Day-9|626|Exchange Seats|Med|[View](Medium/626_Exchange_Seats.sql)|
 | Day-10 | 550 | Game Play Analysis IV | Med|[View](Medium/550_Game_Play_Analysis_IV.sql) |
-|Day-11|Nth Highest Salary|Med|[View](Medium/177_Nth_Highest_Salary.sql)|
+|Day-11|177|Nth Highest Salary|Med|[View](Medium/177_Nth_Highest_Salary.sql)|
 
 ---
 
