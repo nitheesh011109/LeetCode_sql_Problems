@@ -82,8 +82,8 @@ WHERE e.salary > m.salary;
 | ---------- | --------------- |
 | Easy       | 7               |
 | Medium     | 4               |
-| Hard       | 0               |
-| TOTAL      | 11              |
+| Hard       | 1              |
+| TOTAL      | 12              |
 
 ---
 
@@ -99,9 +99,10 @@ WHERE e.salary > m.salary;
 |Day-6| 1633| percentage of Users Attended a Contest|Easy|[View](Easy/1633_Percentage_of_Users_Attended_a_Contest.sql)|
 |Day-7|1141| User Activity for the Past 30 Days I| Easy|[View](Easy/1141_User_Activity_for_the_Past_30_Days_I.sql)|
 |Day-8|184|Department Highest Salary|Medium|[View](Medium/184_Department_Highest_Salary.sql)|
-|Day-9|626|Exchange Seats|Med|[View](Medium/626_Exchange_Seats.sql)|
-| Day-10 | 550 | Game Play Analysis IV | Med|[View](Medium/550_Game_Play_Analysis_IV.sql) |
-|Day-11|177|Nth Highest Salary|Med|[View](Medium/177_Nth_Highest_Salary.sql)|
+|Day-9|626|Exchange Seats|Medium|[View](Medium/626_Exchange_Seats.sql)|
+| Day-10 | 550 | Game Play Analysis IV | Medium|[View](Medium/550_Game_Play_Analysis_IV.sql) |
+|Day-11|177|Nth Highest Salary|Medium|[View](Medium/177_Nth_Highest_Salary.sql)|
+|Day-12|601|Human Traffic of Stadium|Hard|[View](Hard/Human_Traffic_of_Stadium)|
 
 ---
 
