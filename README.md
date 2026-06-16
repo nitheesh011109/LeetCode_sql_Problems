@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-SQL%20Solutions-orange?style=for-the-badge&logo=leetcode"/>
   <img src="https://img.shields.io/badge/Language-SQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+ 
 </p>
 
 ## Overview
