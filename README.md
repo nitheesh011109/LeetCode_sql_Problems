@@ -63,7 +63,7 @@ Each solution file contains:
 
 Example:
 
-```sql
+
 -- LeetCode 181
 -- Employees Earning More Than Their Managers
 
@@ -72,7 +72,7 @@ FROM Employee e
 JOIN Employee m
 ON e.managerId = m.id
 WHERE e.salary > m.salary;
-```
+
 
 ---
 
