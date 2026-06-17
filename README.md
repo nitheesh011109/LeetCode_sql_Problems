@@ -82,8 +82,8 @@ WHERE e.salary > m.salary;
 | ---------- | --------------- |
 | Easy       | 7               |
 | Medium     | 4               |
-| Hard       | 1              |
-| TOTAL      | 12              |
+| Hard       | 2              |
+| TOTAL      | 13             |
 
 ---
 
@@ -103,6 +103,7 @@ WHERE e.salary > m.salary;
 | Day-10 | 550 | Game Play Analysis IV | Medium|[View](Medium/550_Game_Play_Analysis_IV.sql) |
 |Day-11|177|Nth Highest Salary|Medium|[View](Medium/177_Nth_Highest_Salary.sql)|
 |Day-12|601|Human Traffic of Stadium|Hard|[View](Hard/Human_Traffic_of_Stadium)|
+|Day-13|185|Department_Top_Three_Salaries|Hard|[View](Hard/185_Department_Top_Three_Salaries.sql)|
 
 ---
 
