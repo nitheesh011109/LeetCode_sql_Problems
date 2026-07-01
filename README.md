@@ -81,9 +81,9 @@ WHERE e.salary > m.salary;
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
 | Easy       | 8              |
-| Medium     | 8              |
+| Medium     | 9              |
 | Hard       | 2              |
-| TOTAL      | 19           |
+| TOTAL      | 20          |
 
 ---
 
@@ -109,6 +109,7 @@ WHERE e.salary > m.salary;
 |Day-16|585|Investments in 2016|Medium|[View](Medium/585_Investments_in_2016.sql)|
 |Day-18|1045|Customers Who Bought All Products|Medium|[View](Medium/1045_Customers_Who_Bought_All_Products.sql)|
 |Day-19|1795|Rearrange Products Table|[View](Easy/1795_Reaarange_Products_Table.sql)|
+|Day-20|1174|Immediate Food Delivery II||[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
 
 ---
 
