@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 8              |
+| Easy       | 9             |
 | Medium     | 9              |
 | Hard       | 2              |
-| TOTAL      | 20          |
+| TOTAL      | 21         |
 
 ---
 
@@ -110,6 +110,7 @@ WHERE e.salary > m.salary;
 |Day-18|1045|Customers Who Bought All Products|Medium|[View](Medium/1045_Customers_Who_Bought_All_Products.sql)|
 |Day-19|1795|Rearrange Products Table|Easy|[View](Easy/1795_Reaarange_Products_Table.sql)|
 |Day-20|1174|Immediate Food Delivery II|Medium|[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
+|Day-21|586|Customer Placing the Largest Number of Orders|Easy|[View](Easy/586_Customer_Placing_the_Largest_Number_of_Orders.sql)|
 
 ---
 
