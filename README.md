@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 10             |
+| Easy       | 11            |
 | Medium     | 9              |
 | Hard       | 2              |
-| TOTAL      | 22        |
+| TOTAL      | 23       |
 
 ---
 
@@ -112,6 +112,7 @@ WHERE e.salary > m.salary;
 |Day-20|1174|Immediate Food Delivery II|Medium|[View](Medium/1174_Immediate_Food_Delivery_II.sql)|
 |Day-21|586|Customer Placing the Largest Number of Orders|Easy|[View](Easy/586_Customer_Placing_the_Largest_Number_of_Orders.sql)|
 |Day-22|1050|Actors and Directors Who Cooperated At Least Three Times|Easy|[View](Easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)|
+|Day-23|607|Sales Person|Easy|[View](Easy/607_Sales_Person.sql)|
 
 ---
 
