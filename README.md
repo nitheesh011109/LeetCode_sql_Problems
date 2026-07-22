@@ -80,10 +80,10 @@ WHERE e.salary > m.salary;
 
 | Difficulty | Problems Solved |
 | ---------- | --------------- |
-| Easy       | 11            |
+| Easy       | 12            |
 | Medium     | 10              |
 | Hard       | 2              |
-| TOTAL      | 24       |
+| TOTAL      | 25       |
 
 ---
 
@@ -114,6 +114,8 @@ WHERE e.salary > m.salary;
 |Day-22|1050|Actors and Directors Who Cooperated At Least Three Times|Easy|[View](Easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql)|
 |Day-23|607|Sales Person|Easy|[View](Easy/607_Sales_Person.sql)|
 |Day-24|1070|Product Sales Analysis III|Medium|[View](Medium/1070_Product_Sales_Analysis_III.sql)|
+|Day-25|627|Swap Sex of Employees|Easy|[View](Easy/627_Swap_Sex_of_Employees.sql)|
+
 
 ---
 
